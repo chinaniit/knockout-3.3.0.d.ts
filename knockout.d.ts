@@ -2,6 +2,7 @@
 // Project: http://knockoutjs.com
 // Definitions by: Boris Yankov <https://github.com/borisyankov/>, Igor Oleinikov <https://github.com/Igorbek/>, Cl��ment Bourgeois <https://github.com/moonpyk/>
 // Definitions: https://github.com/borisyankov/DefinitelyTyped
+// Update by l
 
 
 interface KnockoutSubscribableFunctions<T> {
